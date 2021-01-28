@@ -1,0 +1,20 @@
+.errorNot {
+  margin: 5px;
+  padding: 5px;
+  border: 1px solid #e07c7c;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f8d6d6;
+  font-size: 1.5rem;
+}
+.errorNot__btn {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #df4343;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+}
